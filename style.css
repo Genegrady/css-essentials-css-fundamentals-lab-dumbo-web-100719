@@ -15,7 +15,8 @@ a {
 }
 
 figcaption {
- font-size: small; 
+ font-size: small;
+ text-align: center;
 }
 
 .featured-property {
