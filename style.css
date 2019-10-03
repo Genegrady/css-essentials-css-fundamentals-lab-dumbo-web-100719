@@ -17,3 +17,8 @@ a {
 img {
   align-content: center;
 }
+
+.featured-property {
+  width: 800px;
+  text-align: center;
+}
