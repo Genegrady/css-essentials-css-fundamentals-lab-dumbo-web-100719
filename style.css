@@ -30,7 +30,9 @@ figcaption {
 
 div {
   float: left;
-  background-color: 
+  background-color: #FF0000;
+  text-align: center;
+  width: 25%;
 }
 
 img {
